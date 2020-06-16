@@ -1,4 +1,4 @@
-# Resautant Review and Analysis using Machine Learning and Deep Learnign
+# <u>Resautant Review and Analysis using Machine Learning and Deep Learning</u>
 
 <img src = 'images/zmtimg.jpg' />
 
