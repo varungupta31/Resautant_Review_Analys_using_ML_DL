@@ -1,2 +1,14 @@
-# Resautant_Review_Analys_using_ML_DL
-Restaurant Review and analysis using Machine learning and Deep learning.
+# Resautant Review and Analysis using Machine Learning and Deep Learnign
+
+- Exploratory data analyis.
+
+- Restauarant recommendation system (Content filtering based)
+
+- Sentiment analysis of user reviews.
+
+  - NLTK
+      - VADER
+      - TEXTBLOB
+  - LSTM
+  
+ 
